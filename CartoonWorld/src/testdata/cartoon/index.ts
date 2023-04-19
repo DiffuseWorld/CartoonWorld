@@ -1,0 +1,1 @@
+export const images=['https://fastly.jsdelivr.net/npm/@vant/assets/apple-1.jpeg','https://fastly.jsdelivr.net/npm/@vant/assets/apple-1.jpeg']
